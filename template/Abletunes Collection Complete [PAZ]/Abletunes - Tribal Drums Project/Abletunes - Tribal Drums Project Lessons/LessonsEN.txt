@@ -1,0 +1,22 @@
+$Page ABLETUNES - Tribal Drums
+
+abletunes.tif
+
+*ABLETUNES - Tribal Drums*
+
+*Required Plugins*
+
+-> Operator
+-> Simpler
+-> Impulse
+-> $Link Lennar Digital - Sylenth1 <http://www.lennardigital.com/modules/downloads/>
+
+*Support*
+
+Should you need any assistance, please do not hesitate to contact info@abletunes.com or use our $Link contact form <http://abletunes.com/contact-us/>
+
+*More Ableton Live templates*
+
+Visit $Link www.abletunes.com <http://www.abletunes.com/>
+
+*Copyright by Abletunes*
